@@ -1,0 +1,43 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#7e57c2"
+      accentColor: "#7e57c2"
+      predefinedColor: "Purple"
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    autoHideMenuBar: true
+    packagesWithKeymapsDisabled: [
+      "emmet"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 12
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+    zoomFontWhenCtrlScrolling: false
+  "exception-reporting":
+    userId: "5998b281-368a-3fab-8190-5ea4032cc32c"
+  figlet:
+    defaultFont: "Banner 3"
+  "file-icons":
+    coloured: false
+  minimap:
+    absoluteMode: true
+  welcome:
+    showOnStartup: false
+".html.php.text":
+  editor:
+    tabLength: 4
